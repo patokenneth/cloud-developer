@@ -1,6 +1,6 @@
 # udacity-c2-basic-server
 
-This is a simple node-express server to explore and understand the Request-Response pattern. Node req/res process is amazing.
+This is a simple node-express server to explore and understand the Request-Response pattern. Node request/response process is amazing.
 
 ***
 ## Getting Setup
