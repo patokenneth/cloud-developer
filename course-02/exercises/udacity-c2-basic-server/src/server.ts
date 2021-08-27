@@ -103,7 +103,7 @@ import { Car, cars as cars_list } from './cars';
 
     // try to find the car by id
     const car = cars.filter(c => c.id == parseInt(id));
-    console.log(parseInt(id));
+    
     // respond not found, if we do not have this id
     if(car && car.length === 0) {
       return res.status(404).send(`car is not found`);
